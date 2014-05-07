@@ -1,4 +1,4 @@
 lookup
 ======
 
-Dynamic lookup of services.
+Dynamic lookup of services as a substitute for dependency injection.
